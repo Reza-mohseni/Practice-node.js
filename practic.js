@@ -44,3 +44,13 @@
 // var capcha= Math.ceil(Math.random()*10000);
 // var capchaenter = prompt("کد کپچای شما برابر است با: "+capcha+"\n"+"لطفا آن را وارد کنید.");
 // console.log(capchaenter == capcha ? "ثبت نام شدید":"کپچا نادرست");
+
+
+//تمرین isNaN
+var age = +prompt("سن خود را واردکنید");
+if (!isNaN(age)){
+    age = 1404-age;
+    console.log(age);
+}else{
+    console.log("یک عدد وارد کنید");
+}
