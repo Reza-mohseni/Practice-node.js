@@ -47,10 +47,31 @@
 
 
 //تمرین isNaN
-var age = +prompt("سن خود را واردکنید");
-if (!isNaN(age)){
-    age = 1404-age;
-    console.log(age);
-}else{
-    console.log("یک عدد وارد کنید");
-}
+// var age = +prompt("سن خود را واردکنید");
+// if (!isNaN(age)){
+//     age = 1404-age;
+//     console.log(age);
+// }else{
+//     console.log("یک عدد وارد کنید");
+// }
+
+//تمرین فانکشن زوج فرد
+
+// function zojandfard(number)
+// {
+//     console.log(typeof number);
+    
+//     if(typeof number == "number"){
+//         if(number%2==0){
+//             console.log("زوج");
+            
+//         }else{
+//             console.log("فرد");
+            
+//         }
+//     }else{
+//         console.log("لطفا فقط عدد وارد کنید");
+        
+//     }
+// }
+// zojandfard(2);
