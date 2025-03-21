@@ -29,5 +29,13 @@
 // console.log(score);
 
 // مشخص کردن زوج و فرد در اعداد ورودی
-let number= +prompt("لطفا یک عدد واردی کنید");
-console.log(number % 2 == 0 ? "زوج" : "فرد")
+// let number= +prompt("لطفا یک عدد واردی کنید");
+// console.log(number % 2 == 0 ? "زوج" : "فرد")
+
+
+// میانگین 3 عدد
+// let number= +prompt("لطفا یک عدد واردی کنید");
+// let number1= +prompt("لطفا یک عدد واردی کنید");
+// let number2= +prompt("لطفا یک عدد واردی کنید");
+
+// console.log((number+number1+number2)/3)
