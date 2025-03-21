@@ -22,3 +22,11 @@
 //     console.log("ضعیف");
 // }
 
+// شروط تک خطی
+// var score = prompt("نمره خود را وارد کنید");
+
+// score = score === null ? 18 : score
+// console.log(score);
+
+
+
