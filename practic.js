@@ -28,5 +28,6 @@
 // score = score === null ? 18 : score
 // console.log(score);
 
-
-
+// مشخص کردن زوج و فرد در اعداد ورودی
+let number= +prompt("لطفا یک عدد واردی کنید");
+console.log(number % 2 == 0 ? "زوج" : "فرد")
