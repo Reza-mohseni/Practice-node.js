@@ -39,3 +39,8 @@
 // let number2= +prompt("لطفا یک عدد واردی کنید");
 
 // console.log((number+number1+number2)/3)
+
+// ساخت کد کپچا
+// var capcha= Math.ceil(Math.random()*10000);
+// var capchaenter = prompt("کد کپچای شما برابر است با: "+capcha+"\n"+"لطفا آن را وارد کنید.");
+// console.log(capchaenter == capcha ? "ثبت نام شدید":"کپچا نادرست");
